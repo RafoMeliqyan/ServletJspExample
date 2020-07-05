@@ -13,7 +13,7 @@ import java.util.List;
 
 @WebServlet(urlPatterns = "/todoList")
 public class TodoListServlet extends HttpServlet {
-
+    //todoManager
     TodoManager todoManager = new TodoManager();
 
     @Override
