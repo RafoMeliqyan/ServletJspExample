@@ -67,7 +67,7 @@ Login:
 </form>
 <br>
 <br>
-
+    <div class="newDiv"></div>
 Register:
 <form action="/register" method="post" enctype="multipart/form-data">
     <input type="text" name="name" placeholder="Please input name"> <br>
